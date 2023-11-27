@@ -93,4 +93,7 @@
     .detail-container-exp {
         left: 0;
     }
+    #experience {
+        height: 100vh;
+    }
 }
