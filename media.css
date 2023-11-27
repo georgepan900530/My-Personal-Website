@@ -90,4 +90,7 @@
     .text-container {
         text-align: justify;
     }
+    .detail-container-exp {
+        left: 0;
+    }
 }
