@@ -101,4 +101,7 @@
         position: relative;
         margin-bottom: 100%;
     }
+    #projects {
+        margin-top: 50rem;
+    }
 }
