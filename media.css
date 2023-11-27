@@ -62,6 +62,7 @@
     .contact-info-upper-container {
         display: flex;
         flex-direction: column;
+        justify-content: flex-start;
     }
     .contact-info-container {
         margin: 0;
