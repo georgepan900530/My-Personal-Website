@@ -404,7 +404,7 @@ article .icon {
 
 .project-btn {
     color: black;
-    border: rgb(163, 163, 163);
+    border: rgb(163, 163, 163) 0.1rem solid;
     font-size: 1rem;
 }
 
